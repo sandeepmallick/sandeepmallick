@@ -1,1 +1,1 @@
-# I have made an simple and basic google EXTENSTION thats greet you to HAVE A NICE DAY❤️
+# I have made an simple and basic google EXTENSTION thats greet you to HAVE A NICE DAY 👾
