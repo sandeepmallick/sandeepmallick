@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# A basic and simple google EXTENSTION thats greets you to HAVE A NICE DAY❤️
 <!--
 **sandeepmallick/sandeepmallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
