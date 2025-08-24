@@ -60,10 +60,8 @@
   <a href="https://c8sm8s.netlify.app/" target="_blank">
 <p align="left">I JUST LOVE RED </p>
   </a>
-###
-  
-###
 
+  
 <h3 align="left">Language</h3>
 
 ###
