@@ -22,7 +22,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-<h1 align="center">It's Your Homie $ANDEEP</h1>
+<h1 align="center"> Your Can Call Me $ANDY</h1>
 
 ###
 
@@ -57,9 +57,9 @@
 </div>
 
 ###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
+  <a href="https://discord.com/channels/@me" target="_blank">
+<p align="left">I JUST LOVE RED </p>
+  </a>
 ###
 
 <h3 align="left">Language</h3>
