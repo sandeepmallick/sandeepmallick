@@ -22,7 +22,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-<h1 align="center"> Your Can Call Me $ANDY</h1>
+<h1 align="center"> U Can Call Me $ANDY</h1>
 
 ###
 
