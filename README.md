@@ -53,11 +53,11 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="facebook logo"  />
   </a>
   
-</div align="center">
+</div>
 
 ###
   <a href="https://c8sm8s.netlify.app/" target="_blank">
-<p align="left">I JUST LOVE RED </p>
+<p align="center">I JUST LOVE RED </p>
   </a>
 
   
