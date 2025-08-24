@@ -52,7 +52,9 @@
   <a href="https://www.facebook.com/sandeep.mallick.6532" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="facebook logo"  />
   </a>
-  
+  <a href="https://www.youtube.com/channel/UCy3_K3teGzwjbiA79bjwdmA/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="youtube logo" />
+  </a>
 </div>
 
 ###
