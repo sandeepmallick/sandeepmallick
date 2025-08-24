@@ -25,7 +25,7 @@
 <h1 align="center"> U Can Call Me बापुनी</h1>
 
 
-<h3 align="left">The Little eager to know  About everything 👁️ </h3>
+<h3 align="left">The Little Eager To Know  About Everything 👁️ </h3>
 
 ###
 
