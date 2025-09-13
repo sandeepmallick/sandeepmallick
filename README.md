@@ -25,7 +25,7 @@
 <h1 align="center"> AKA बापुनी</h1>
 
 
-<h3 align="left">The Little Eager To Know  About Everything 👁️ </h3>
+<h3 align="left">The Little Urge To Know  About Everything 👁️ </h3>
 
 ###
 
