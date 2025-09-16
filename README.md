@@ -131,3 +131,7 @@
 
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31eoaxrjh5kla6u46pfxf7clbz5e)
+
+<div align="left">
+  <img height="186" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2EyNDJhejk5NW13eHpmYXh2azlyeXB2anplZjM5dnF3ZTU3Z2V5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q58mx3qIE35shUNk7H/giphy.gif"  />
+</div>
