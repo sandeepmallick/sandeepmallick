@@ -5,7 +5,7 @@
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
 ████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
 ██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝
-██████████████████████████████ `  ▓▓▓Sandeep▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+██████████████████████████████ `  ▓▓▓Sandeep▓▓▓  ` █████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
 ██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
 ▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
 █▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/sandeep-mallick-94b997317/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
   </a>
-  <a href="https://tryhackme.com/p/sandeepmallick7254" target="_blank">
+  <a href="https://tryhackme.com/p/ZTEX" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="tryhackme logo"  />
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
