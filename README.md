@@ -58,7 +58,7 @@
 </div>
 
 ###
-  <a href="https://c8sm8s.netlify.app/" target="_blank">
+  <a href="https://sandeepmallick.vercel.app/" target="_blank">
 <p align="center">I JUST LOVE RED </p>
   </a>
 
