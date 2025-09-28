@@ -58,7 +58,7 @@
 </div>
 
 ###
-  <a href="https://sandeepmallick.vercel.app/" target="_blank">
+  <a href="https://sandeepmallick.github.io/Cosmos/" target="_blank">
 <p align="center">I JUST LOVE RED </p>
   </a>
 
